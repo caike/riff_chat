@@ -1,2 +1,2 @@
-require 'chat'
-run Sinatra::Application
+require './chat.rb'
+run RiffChat
